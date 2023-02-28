@@ -3,4 +3,7 @@
 
 ![image](https://github.com/JjIiNnXx/Qrscanner/blob/main/Photos/qrscanner.jpg)
 
+
+
+
 生成的二维码中会自动保存生成的时间
