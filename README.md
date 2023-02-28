@@ -1,7 +1,7 @@
 # Qrscanner
 一个生成自定义二维码内容的二维码生成器
 
-![image](https://github.com/JjIiNnXx/Qrscanner/blob/main/Photos/qrscanner.jpg)
+![image](main/Photos/qrscanner.jpg)
 
 
 
